@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
           <div className='max-w-5xl mx-auto px-4 flex items-center justify-between'>
             <div className='text-3xl font-bold'>
               PULSE{' '}
-              <span className='text-sm font-normal pl-4'>
+              <span className='text-sm font-normal pl-2'>
                 Purpose - Unity - Logic - Stress Style - Engagement
               </span>
             </div>
